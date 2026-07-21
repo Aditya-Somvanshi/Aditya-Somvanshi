@@ -5,26 +5,25 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Analyst;Python+Developer;Power+BI+Enthusiast;Always+Learning+New+Things"/>
 
-
-
 </div>
 
 ---
 
-<div align="center">
 
-![](https://img.shields.io/badge/B.E.%20Computer%20Engineering-222222?style=for-the-badge)
-![](https://img.shields.io/badge/2027%20Graduate-22D3EE?style=for-the-badge)
 
-![](https://img.shields.io/badge/CGPA-5.72%2F10-222222?style=for-the-badge)
+<p align="center">
 
-![](https://img.shields.io/badge/Python-22D3EE?style=for-the-badge)
-![](https://img.shields.io/badge/SQL-222222?style=for-the-badge)
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-2026%20Graduate-22D3EE?style=for-the-badge"/>
 
-![](https://img.shields.io/badge/Power%20BI-22D3EE?style=for-the-badge)
-![](https://img.shields.io/badge/Tableau-222222?style=for-the-badge)
+<img src="https://img.shields.io/badge/CGPA-5.72%2F10-22D3EE?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/Python-SQL-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power-Tableau-22D3EE?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/Pune-Maharashtra-22D3EE?style=for-the-badge"/>
+
+</p>
 
 ---
 
