@@ -54,6 +54,18 @@
 
 # 💫 About Me
 
+Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring **Data Analyst** with a strong interest in building data-driven solutions and modern web applications.
+
+🎓 Pursuing a Bachelor's degree in Computer Engineering.
+
+💼 Completed a Software Developer Internship at **CloudBlitz Technologies**, where I worked with **React.js, Spring Boot, REST APIs, and MySQL** on real-world projects.
+
+📊 Skilled in **Python, SQL, Power BI, Tableau, Excel, and Data Analysis**, with hands-on experience in data cleaning, visualization, and exploratory data analysis.
+
+🚀 I enjoy solving real-world problems, learning new technologies, and continuously improving my development and analytical skills.
+
+⚡ **Goal:** To build impactful software and leverage data to drive smarter business decisions.
+
 💻 Software Developer Intern at **CloudBlitz Technologies**
 
 📊 Passionate about **Data Analytics & Business Intelligence**
