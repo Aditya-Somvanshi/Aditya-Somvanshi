@@ -2,9 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:22D3EE,50:06B6D4,100:0891B2&text=Aditya%20Somvanshi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Software Developer • Data Analyst • Python Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Analyst;Python+Developer;Power+BI+Enthusiast;Always+Learning+New+Things"/>
+
+
 
 </div>
 
