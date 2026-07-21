@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aditya Somvanshi</h1>
+
 <h3 align="center">Software Developer | Data Analyst | Python Enthusiast 🚀</h3>
 
 <p align="center">
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:22D3EE,50:06B6D4,100:0891B2&text=Aditya%20Somvanshi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=22B8CF&center=true&vCenter=true&width=650&lines=Software+Developer;Data+Analyst;Python+Developer;Power+BI+Enthusiast;Always+Learning+New+Things!" />
 </p>
 
