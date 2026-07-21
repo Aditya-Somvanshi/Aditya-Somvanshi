@@ -1,80 +1,133 @@
+<div align="center">
 
-<h3 align="center">Software Developer | Data Analyst | Python Enthusiast 🚀</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aditya Somvanshi
+
+### Software Developer • Data Analyst • Python Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Analyst;Python+Developer;Power+BI+Enthusiast;Always+Learning+New+Things"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/B.E.%20Computer%20Engineering-222222?style=for-the-badge)
+![](https://img.shields.io/badge/2027%20Graduate-22D3EE?style=for-the-badge)
+
+![](https://img.shields.io/badge/CGPA-5.72%2F10-222222?style=for-the-badge)
+
+![](https://img.shields.io/badge/Python-22D3EE?style=for-the-badge)
+![](https://img.shields.io/badge/SQL-222222?style=for-the-badge)
+
+![](https://img.shields.io/badge/Power%20BI-22D3EE?style=for-the-badge)
+![](https://img.shields.io/badge/Tableau-222222?style=for-the-badge)
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Software Developer Intern at **CloudBlitz Technologies**
+
+📊 Passionate about **Data Analytics & Business Intelligence**
+
+🐍 Strong knowledge of **Python & SQL**
+
+📈 Skilled in **Power BI, Tableau & Excel**
+
+🌱 Currently exploring **Data Science & Machine Learning**
+
+🚀 Love solving real-world problems using technology.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:22D3EE,50:06B6D4,100:0891B2&text=Aditya%20Somvanshi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=22B8CF&center=true&vCenter=true&width=650&lines=Software+Developer;Data+Analyst;Python+Developer;Power+BI+Enthusiast;Always+Learning+New+Things!" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.E. Computer Engineering Student
-- 💼 Software Developer Intern @ **CloudBlitz Technologies**
-- 📊 Passionate about **Data Analytics & Software Development**
-- 🌱 Currently learning **Advanced Python, Power BI & Data Science**
-- 💻 Strong in **Python, SQL, React.js & Spring Boot**
-- 📈 Love turning raw data into meaningful insights.
-- ⚡ Fun Fact: *Coffee + Coding = Productivity ☕*
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
 <a href="mailto:adityasomwanshi07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-22B8CF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/aditya-somwanshi">
-<img src="https://img.shields.io/badge/LinkedIn-22B8CF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Aditya-Somvanshi">
-<img src="https://img.shields.io/badge/GitHub-22B8CF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=sql"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://skillicons.dev/icons?i=java" />
+
+<img src="https://skillicons.dev/icons?i=sql" />
+
+<img src="https://skillicons.dev/icons?i=javascript" />
+
 </p>
 
----
-
-### 🌐 Web Development
+### 🌐 Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=html" />
+
+<img src="https://skillicons.dev/icons?i=css" />
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+<img src="https://skillicons.dev/icons?i=spring" />
+
+</p>
+
+### 🛢 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+</p>
+
+### 📊 Data Analytics
+
+- Excel
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
 ---
 
 # 💼 Experience
 
-## 🚀 Software Developer Intern | CloudBlitz Technologies
+## 🚀 Software Developer Intern
+### CloudBlitz Technologies | Jan 2026 – Jul 2026
 
-📅 Jan 2026 – Jul 2026
-
-- 💻 Developed responsive UI using React.js
-- 🔗 Integrated REST APIs
-- ⚙️ Worked on Spring Boot backend
-- 🛢️ Managed MySQL Database
-- 🐞 Debugged and enhanced application performance
-- 🤝 Collaborated using Git & GitHub following Agile methodology
+- 💻 Developed responsive frontend using **React.js**
+- 🔗 Integrated REST APIs with frontend
+- ⚙️ Worked on **Spring Boot** backend
+- 🛢️ Managed **MySQL** database
+- 🐞 Debugged and optimized application performance
+- 🤝 Collaborated using **Git & GitHub** in Agile environment
 
 ---
 
@@ -82,76 +135,139 @@
 
 ## 🤖 AI Chatbot
 
-> Rule-Based Python Chatbot
+<img align="right" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-### 🔹 Features
+### 📌 Overview
 
-- 💬 Intelligent Question & Answer System
-- 🧠 Custom Python Functions
-- 👋 Greeting & Query Handling
-- ⚡ Dynamic Responses
-- 🧹 Clean & Readable Code Structure
+A rule-based chatbot developed using Python that provides
+dynamic responses based on user input.
 
-### 🛠 Tech Used
+### ✨ Features
 
-`Python` `VS Code`
+- 💬 Interactive Question & Answer System
+- 👋 Greeting & Conversation Handling
+- ⚡ Dynamic Response Generation
+- 🧠 Function-Based Logic
+- 🧹 Clean & Readable Code
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-22D3EE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-222222?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 📜 Certifications
 
-🏅 Full Stack Java with React – CJC EdTech
+🏅 Full Stack Java with React
+> CJC EdTech
 
-🏅 Master Python Programming from Scratch – Udemy
+---
 
-🏅 Zero to Mastery: Web Development – Apna College
+🏅 Master Python Programming from Scratch
+> Udemy
 
-🏅 LaTeX Training Organizer – SKN Sinhgad Techtonic
+---
+
+🏅 Zero to Mastery – Web Development
+> Apna College
+
+---
+
+🏅 LaTeX Training Organizer
+> SKN Sinhgad Techtonic
+
+---
+
+# 🏆 Achievements
+
+✨ Organized **LaTeX Training** for **100+ students**
+
+📊 Built Data Analytics dashboards using
+React.js, Spring Boot & MySQL
+
+🚀 Strong interest in Data Analytics &
+Business Intelligence
+
+---
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Somvanshi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Somvanshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Somvanshi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Somvanshi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Aditya-Somvanshi&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Somvanshi&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Somvanshi&theme=algolia&row=1&column=7&no-frame=true"/>
 
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Aditya-Somvanshi&label=Profile%20Views&color=22B8CF&style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-✨ Thanks for visiting my profile! ✨
-</h3>
+# 📈 Contribution Graph
 
-<h4 align="center">
-⭐ If you like my work, don't forget to Star my repositories!
-</h4>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Somvanshi&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Aditya-Somvanshi&label=Profile%20Views&color=22D3EE&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💙 Thanks for Visiting
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Keep+Learning+Keep+Growing!"/>
+
+</div>
+
+---
