@@ -8,9 +8,6 @@
 </div>
 
 
-
-
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-2026%20Graduate-22D3EE?style=for-the-badge"/>
@@ -45,6 +42,15 @@
 
 </p>
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Aditya-Somvanshi&style=for-the-badge&color=22D3EE"/>
+
+<img src="https://img.shields.io/github/followers/Aditya-Somvanshi?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Aditya-Somvanshi?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
 
 # 💫 About Me
 
