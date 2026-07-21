@@ -80,25 +80,9 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
 
-<a href="mailto:adityasomwanshi07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-<a href="https://linkedin.com/in/aditya-somwanshi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aditya-Somvanshi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 # 💻 Tech Stack
 
@@ -296,15 +280,33 @@ Business Intelligence
 </div>
 
 ---
+# 🌐 Connect With Me
 
-# 💙 Thanks for Visiting
+<p align="center">
 
+<a href="mailto:adityasomwanshi07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aditya-somwanshi">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aditya-Somvanshi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+---
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+## 💜 Thanks for Visiting!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Keep+Learning+Keep+Growing!"/>
+⭐ If you like my projects, feel free to explore my repositories.
+
+**"Learning, Building & Growing Every Day 🚀"**
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:06B6D4,100:0891B2"/>
+
