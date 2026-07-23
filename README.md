@@ -80,10 +80,6 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 
 ---
 
-
-
-
-
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -102,7 +98,7 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 
 ### 🌐 Web Technologies
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html" />
 
@@ -116,7 +112,7 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 
 ### 🛢 Database
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
