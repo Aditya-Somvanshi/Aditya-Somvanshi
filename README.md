@@ -82,7 +82,7 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 <p align="center">
 
@@ -96,7 +96,7 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 
 </p>
 
-### 🌐 Web Technologies
+## 🌐 Web Technologies
 
 <p align="center">
 
@@ -110,7 +110,7 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 
 </p>
 
-### 🛢 Database
+## 🛢 Database
 
 <p align="center">
 
@@ -120,8 +120,8 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 
 </p>
 
-### 📊 Data Analytics
-<div align="center">
+## 📊 Data Analytics
+
 - Excel
 - Power BI
 - Tableau
@@ -131,7 +131,7 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 - Seaborn
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-</div>
+
 ---
 
 # 💼 Experience
