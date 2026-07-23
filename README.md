@@ -88,7 +88,7 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 
 ### 👨‍💻 Languages
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
 
