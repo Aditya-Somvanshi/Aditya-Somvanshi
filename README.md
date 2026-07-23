@@ -121,7 +121,7 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 </p>
 
 ### 📊 Data Analytics
-<P align="center">
+<div align="center">
 - Excel
 - Power BI
 - Tableau
@@ -131,7 +131,7 @@ Hi, I'm **Aditya Somvanshi**, a passionate **Software Developer** and aspiring *
 - Seaborn
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-</P>
+</div>
 ---
 
 # 💼 Experience
